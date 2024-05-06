@@ -1,0 +1,30 @@
+impares=[1,3,5,7,9,11,13,15,17,19]
+print(type(impares))
+print(impares)
+print(impares[4])
+print(impares[-6])
+print(impares[:6])
+print(impares[6:9])
+print(impares[-6:-3])
+#fkdfhjksdhjkghjkdfghjkdfhgjkdhgkdf
+lista_alfanumerica=['a',1,'b',2,'c',3,'d']
+print(lista_alfanumerica)
+print(len(lista_alfanumerica))
+medio=len(lista_alfanumerica)//2
+print(lista_alfanumerica[medio])
+#kfdlfjdklgjkdljkldgjlkfdgj
+impares=(1,3,5,7,9,11,13,15,17,19)
+#len() Devuelve un valor
+tamaño=len(impares)
+print(tamaño)
+#Reverse no devuelve valor
+#revertido=impares.reverse()
+#print(impares)
+#print(revertido)
+#ljgdlkgjdlkgjldjgldjgdfg
+matriz=[
+    [1,2,3,4,5],
+    [6,7,8,9,10],
+    [11,12,13,14,15]
+]
+print(matriz[1][2])
