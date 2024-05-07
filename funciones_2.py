@@ -24,9 +24,10 @@ print(resultado)
 def aplicacion_porcentaje(lista):
     resultado_porcentaje=[]
     for numero in lista:
-        resultado=porcentaje2(numero)
+        resultado=porcentaje2(numero,10)
         resultado_porcentaje.append(resultado)
     return resultado_porcentaje
 lista=[20,80,100]
-imprimir=aplicacion_porcentaje(lista)
+resultado_final=aplicacion_porcentaje(lista)
+print(resultado_final)
 
