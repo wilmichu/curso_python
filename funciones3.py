@@ -1,3 +1,4 @@
+# diccionario:
 productos={
     "arroz":58,
     "gaseosas":50,
