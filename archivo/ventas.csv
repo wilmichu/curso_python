@@ -1,0 +1,9 @@
+id,codigo_cliente,cliente,producto,precio,descuento,iva
+1,100001,Ramiro1 Perez,arroz,158,,
+2,100002,Ramiro2 Perez,pan,589,,
+3,100003,Ramiro3 Perez,fideos,125,,
+4,100004,Ramiro4 Perez,gaseosas,89,,
+5,100005,Ramiro5 Perez,cereales,257,,
+6,100006,Ramiro6 Perez,arina,358,,
+7,10000,Wilmer Machaca,papas fritas,68,,
+8,10000,erer,edrtert,23,,
